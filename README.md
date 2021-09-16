@@ -2,7 +2,7 @@
 #### I am Front-End (React.js) developer
 &NewLine;
 
-##### Skills: HTML / CSS / SCSS / React.js / Next.js
+##### Skills: HTML / CSS / SCSS / JavaScript / TypeScript / React.js / Next.js
 &NewLine;
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mir4ri&show_icons=true) 
